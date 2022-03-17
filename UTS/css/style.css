@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(../images/bg.jpg);
+}
+#wrapper{
+    width: 675px;
+    height: 1075px;
+    background-image: url(../images/bgcontainer.jpg);
+    margin: auto;
+}
+#menu{
+    background-image: url(../images/bgcontent.gif);
+    height: 60px;
+    width: 635px;
+    margin: auto;
+}
+#menu ul{
+    position: absolute;
+    list-style: none;
+}
+#menu ul li:first-child{
+    color: #111;
+    font-size: 20px;
+    line-height: 40px;
+    text-align: center;
+    padding-left: 105px;
+}
+#menu ul li{
+    color: #444;
+    font-size: 20px;
+    line-height: 40px;
+    float: left;
+    padding-left: 15px;
+}
+.one{
+    color: #111;
+}
+.two{
+    color: #444;
+}
+.three{
+    color: #444;
+}
+.four{
+    color: #444;
+}
+.five{
+    color: #444;
+}
+#top-image img{
+    width: 85%;
+    margin-left: 40px;
+}
+#content h1{
+    font-weight: 100;
+    margin-left: 6%;
+    color: #444;
+}
+.title:first-letter {
+    display: block;
+    float: left;
+    font-size: 2.4em;
+} 
+#content h2{
+    font-weight: 100;
+    font-size: 15px;
+    color: #444;
+}
+.title-kecil{
+    padding-top: 20px;
+    font-size: 25px;
+    margin-bottom: 3px;
+}
+.date{
+    padding-bottom: 10px;
+}
+.map{
+    width: 225px;
+    height: 200px;
+    float: left;
+    margin-left: 6% ;
+    padding-right: 15px;
+}
+#content p.paragraf-satu{
+    margin-left: 6%;
+    text-align: left;
+    padding-bottom: 15px;
+    padding-right: 20px;
+    color: #444;
+    font-size: 15px;
+}
+#content p.paragraf-dua{
+    padding-right: 50px;
+    padding-bottom: 15px;
+    color: #444;
+    font-size: 15px;
+}
+#content p.paragraf-tiga{
+    margin-left: 6%;
+    padding-right: 50px;
+    color: #444;
+    font-size: 15px;
+}
+#divider img{
+    width: 100%;
+    height: 30px;
+    margin-top: 27px;
+}
+#content p.paragraf-empat{
+    margin-left: 6%;
+    padding-right: 50px;
+    color: #444;
+    font-size: 15px;
+}
+blockquote{
+    margin-left: 6%;
+    background: url(../images/quote.gif)no-repeat;
+    color: #555;
+    font: normal 25px serif;
+    padding: 10px;
+    padding-left: 22px;
+    font-weight: 200;
+}
+#content p.paragraf-lima{
+    margin-left: 6%;
+    padding-right: 50px;
+    color: #444;
+    font-size: 15px;
+}
+#content p.paragraf-enam{
+    margin-left: 6%;
+    padding-right: 50px;
+    color: #444;
+    font-size: 15px;
+}
+#footer img{
+    width: 94%;
+    height: 34px;
+    margin-left: 24px;
+}
+
+.p{
+    color: blue;
+}
+.pp{
+    color: blue;
+    text-decoration: none;
+}

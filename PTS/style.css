@@ -1,0 +1,53 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-image: url(/UTS/images/bg.jpg); 
+}
+#wrapper{
+    background-image: url(/UTS/images/bgcontainer.jpg);
+    height: 1075px;
+    width: 675px;
+    margin: auto;
+}
+#menu{
+    background-image: url(/UTS/images/bgcontent.gif);
+    width: 635px;
+    height: 60px;
+    margin: auto;
+}
+
+#menu ul li:first-child{
+    color: black;
+    font-size: 20px;
+    line-height: 40px;
+    text-align: center;
+}
+#menu ul{
+    font-size: 20px;
+    line-height: 40px;
+    padding-left: 105px;
+}
+#menu ul li{
+    font-size: 20px;
+    line-height: 40px;
+    float: left;
+    list-style: none;
+    width: 100px;
+}
+.one{
+    color: #111;
+}
+.two{
+    color: #444;
+}
+.three{
+    color: #444;
+}
+.four{
+    color: #444;
+}
+.fivr{
+    color: #444;
+}

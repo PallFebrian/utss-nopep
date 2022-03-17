@@ -1,0 +1,98 @@
+*{
+    margin: 0%;
+    padding: 0;
+}
+body{
+    background-image: none;
+}
+#wrapper{
+    height: 1075px;
+    width: 1540px;
+    margin: auto;
+}
+#garis1{
+    width: 1530px;
+    height: 40px;
+    background-color: red;
+    border: 3px solid blue;
+    margin-bottom: 20px;
+}
+#imgg{
+    background-image: url(/UTSS/image/aloo.jpg);
+    width: 1360px;
+    height: 370px;
+    border-radius:  30px 30px 30px 30px  ;
+    margin-left: 87px;
+    margin-bottom: 20px;
+}
+#garis2{
+    width: 1360px;
+    height: 25px;
+    background-color: red;
+    border: 3px solid blue;
+    border-radius:  5px 5px 5px 5px  ;
+    margin-left: 87px;
+    margin-bottom: 20px;
+}
+#satu{
+    width: 1000px;
+    height: 200px;
+    /* background-color: blueviolet; */
+    margin-left: 87px;
+    margin-bottom: 20px;
+}
+#satu img{
+    width: 150px;
+    height: 150px;
+    border-radius:  7px 7px 7px 7px;
+    float: left;
+}
+#satu h2{
+   margin-left: 76px; 
+}
+#satu p{
+    font-size: 20px;
+    margin-bottom: 10px;
+    font-weight: 400;
+}
+#dua{
+    width: 1000px;
+    height: 300px;
+    /* background-color: blueviolet; */
+    margin-left: 87px;
+    margin-bottom: 10px;
+}
+#dua img{
+    width: 150px;
+    height: 150px;
+    border-radius:  7px 7px 7px 7px;
+    float: left;
+}
+#dua h2{
+   margin-left: 76px; 
+}
+#dua p{
+    font-size: 20px;
+    margin-bottom: 10px;
+    font-weight: 400;
+}
+#garis3{
+    width: 1360px;
+    height: 25px;
+    background-color: red;
+    border: 3px solid blue;
+    border-radius:  5px 5px 5px 5px  ;
+    margin-left: 87px;
+}
+#puter{
+    width: 1360px;
+    height: 200px;
+    background-color: black;
+    margin-left: 87px; 
+}
+#puter h1{
+    color: aliceblue;
+    text-align: center;
+    line-height: 160px;
+}
+
